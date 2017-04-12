@@ -469,6 +469,8 @@ HTML("""
 
 
 
+***See output videos white.mp4 and yellow.mp4 for the fully annotated video.***
+
 ## Reflections
 
 
